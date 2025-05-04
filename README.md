@@ -1,4 +1,6 @@
-# 👋 Hi, I’m @Ample1827 (a.k.a. Ample)
+# 👋 Hi, I’m Adalberto Romero (a.k.a. Ample1827)
+- But almost everyone calls me Adal or Romero 
+- BTW I don't mind what you call me 90% can't say my name correctly anyways
 
 ## 💼 About Me
 I'm a passionate **Software Engineer** and **Full-Stack Developer** who began programming in **2020**. Since then, I’ve been building scalable web applications, automation tools, and AI-integrated systems. My skill set spans across frontend, backend, databases, DevOps, and cloud development.
